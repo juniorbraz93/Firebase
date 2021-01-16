@@ -1,0 +1,13 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "yy",
+  "main": "y",
+  "repository": "y",
+  "author": "u",
+  "license": "u",
+  "private": null,
+  "dependencies": {
+    "firebase": "^7.14.4"
+  }
+}

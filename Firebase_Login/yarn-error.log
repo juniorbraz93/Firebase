@@ -1,0 +1,45 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add apiKey: AIzaSyBgUsgRVsEoEYLFXTEnKu2oy0fuGmiuF1Q,
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Junior Braz\bin;C:\Users\Junior Braz\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Junior Braz\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Users\Junior Braz\AppData\Local\Microsoft\WindowsApps;C:\Users\Junior Braz\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Junior Braz\AppData\Roaming\npm;C:\Users\Junior Braz\AppData\Local\Yarn\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Invalid URL
+      at module.exports.module.exports (C:\Program Files (x86)\Yarn\lib\cli.js:71820:9)
+      at urlParts (C:\Program Files (x86)\Yarn\lib\cli.js:31614:75)
+      at NpmRegistry.isRequestToRegistry (C:\Program Files (x86)\Yarn\lib\cli.js:31657:19)
+      at NpmRegistry.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:31689:31)
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:310:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:328:14
+      at new Promise (<anonymous>)
+      at new F (C:\Program Files (x86)\Yarn\lib\cli.js:5301:28)
+      at NpmRegistry.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:307:12)
+
+npm manifest: 
+  {
+    "name": "y",
+    "version": "y",
+    "description": "yy",
+    "main": "y",
+    "repository": "y",
+    "author": "u",
+    "license": "u",
+    "private": null
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
