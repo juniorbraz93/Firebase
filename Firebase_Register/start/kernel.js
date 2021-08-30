@@ -45,7 +45,7 @@ ioc.singleton("User/Firebase", (app) => {
   const adminFirebase = admin.initializeApp(
     {
       credential: admin.credential.cert(Firebase),
-      databaseURL: "https://med365-cd2ae.firebaseio.com/",
+      databaseURL: "https://teste-cd2ae.firebaseio.com/",
     },
     "second" // this name will be used to retrieve firebase instance. E.g. first.database();
   );
